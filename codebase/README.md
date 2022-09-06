@@ -36,11 +36,11 @@
  
 # Preliminary Software Requirements Specifications (SRS):
 
--The program should allow users to buy products on the website.
--The program should make users  can add items to their carts.
--The program should be able to add the total items in the a person's cart and sum it up to one bill.
--The program should utilize PaPAL  Api to collect payment from users.
--The program should allow users to login or logout when necessary.
--Student should be able to meet login with their Berea or gmail. 
+- The program should allow users to buy products on the website.
+- The program should make users  can add items to their carts.
+- The program should be able to add the total items in the a person's cart and sum it up to one bill.
+- The program should utilize PaPAL  Api to collect payment from users.
+- The program should allow users to login or logout when necessary.
+- Student should be able to meet login with their Berea or gmail. 
 
 
