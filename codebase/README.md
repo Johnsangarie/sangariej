@@ -36,6 +36,11 @@
  
 # Preliminary Software Requirements Specifications (SRS):
 
+
+
+
+### Functional requirements 
+
 - The program should allow users to buy products on the website.
 - The program should make users  can add items to their carts.
 - The program should be able to add the total items in the a person's cart and sum it up to one bill.
