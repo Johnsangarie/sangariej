@@ -25,7 +25,7 @@
  ## Scope and Vision
  
  
- - **[Scope]**: I plan to have the following features on my website:  Users, clients and Authenticity, Databases, Login/logout, GTP-3 Artificial intellegent API, PAPAL API.
+ - **[Scope]**: I plan to have the following features on my website:  Users, clients and Authenticity, Databases, Login/logout, GTP-3 Artificial intellegent API, PAYPAL API.
  
  - **[Out of Scope]**:merging the website to Berea College website.
  
