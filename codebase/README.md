@@ -48,3 +48,27 @@
 - The program should utilize PayPal API to collect payment from users.
 - The program should allow users to login or logout when necessary.
 - Student should be able to meet login with their Berea or gmail.
+
+
+
+### software Design
+
+-Main landing Page - items be sold
+                   - SignIn  - signup
+                   - about - members of ASA  
+                           - brief  history of ASA
+                   - a contact us form
+
+- Login and registration class
+-The website will consist of a main landing page which will contents a sign In link, and sign up links that allows users to create account or login to their person accounts. Also, it will have an about page that talks a bit about members of the Africa Student Association with a photo of each members. Lastly, a contact form that receives information from users.
+-
+-
+-  
+
+### software Design 2
+
+
+
+### Project Logo
+
+![asa_brand-bg](https://user-images.githubusercontent.com/57777698/193861487-8a40eed8-9bff-4e05-a009-0a3a21173e5d.png)
