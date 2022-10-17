@@ -1,7 +1,7 @@
 # CSC 493: R01: Project Concept Proposal<sup>1</sup>
 
 - Project name: African Student Association Website
-- **Project Concept (linked to <code>concept.md</code>)** 
+- **Project Concept (linked to <code>concept.md</code>)**
 - Prerequisites: Html, CSS, Python, Javascript, and Mysql
 - Built With: Python Boostrap 5, Mysql, maybe Javascript
 - Author name: John Sangarie
@@ -9,43 +9,42 @@
 
 
 <code>concept.md</code>
-  - Project Name: frican Student Association Website
-  - Goals: The goal is to build a website that can provide opportunity for people to buy african materials and learn about africa in the process. 
-  - Context: 
-  - Novelty: 
+  - Project Name: African Student Association Website
+  - Product Logo: https://docs.google.com/document/d/1eL_tRdD9L3-Gz7UpkjsY7aKlnqMow_2qiufaDR7m1oY/edit?usp=sharing
+  - Goals: The goal is to build a website that can provide opportunity for people to buy African materials and learn about Africa in the process.
+  - Context:
+  - Novelty:
   - Functionality: Users, clients and Authenticity, Databases
   - Audience: classmates, Professor and African Students Association.
   - Challenges: Building everything
   - Measures
-  - Motivation: My moltivation is to create something that helps the Berea College Community and Africa Students Association in general. 
+  - Motivation: My motivation is to create something that helps the Berea College Community and Africa Students Association in general.
   - Future Extensions: Thinking...
   - *Other (Optional)*
-  
- 
+
+
  ## Scope and Vision
- 
- 
- - **[Scope]**: I plan to have the following features on my website:  Users, clients and Authenticity, Databases, Login/logout, GTP-3 Artificial intellegent API, PAYPAL API.
- 
+
+
+ - **[Scope]**: I plan to have the following features on my website:  Users, clients and Authenticity, Databases, Login/logout, GTP-3 Artificial intelligent API, PAYPAL API.
+
  - **[Out of Scope]**:merging the website to Berea College website.
- 
- 
- **[Vision]**: The purpose of this project is to gain a software engineering life cycle experince while handing or meeting my capstone requirement. 
- 
- 
- 
+
+
+ **[Vision]**: The purpose of this project is to gain a software engineering life cycle experience while handing or meeting my capstone requirement.
+
+
+
 # Preliminary Software Requirements Specifications (SRS):
 
 
 
 
-### Functional requirements 
+### Functional requirements
 
 - The program should allow users to buy products on the website.
 - The program should make users  can add items to their carts.
 - The program should be able to add the total items in the a person's cart and sum it up to one bill.
-- The program should utilize PaPAL  Api to collect payment from users.
+- The program should utilize PayPal API to collect payment from users.
 - The program should allow users to login or logout when necessary.
-- Student should be able to meet login with their Berea or gmail. 
-
-
+- Student should be able to meet login with their Berea or gmail.

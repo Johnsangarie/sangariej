@@ -1,8 +1,13 @@
-.carousel-item, #products, .footer{
+.carousel-item, .footer{
 
 height: 500px
 
 }
+
+
+
+
+
 
 
 h2{
@@ -20,4 +25,8 @@ form{
 .img-signIn{
   width: 25rem;
   height: 25rem;
+}
+
+contact{
+  margin-top: 30rem;
 }
