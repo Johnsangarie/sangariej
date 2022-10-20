@@ -74,3 +74,14 @@
 ### Project Logo
 
 ![asa_brand-bg](https://user-images.githubusercontent.com/57777698/193861487-8a40eed8-9bff-4e05-a009-0a3a21173e5d.png)
+
+
+### About Us
+
+- Godwin, President of ASA and a Senior at  majoring in Biology. 
+- Ruth, Vice-President and a Senior at majoring in Biology.
+- Gaston, Director of Finance  and a Senior at Berea College majoring in Computer Science.
+- Isaac, Chief Events Coordinator, and a Junior in Berea College majoring in Computer Science.
+- John, Director of Technology, and a Senior at Berea College majoring in Computer Science.
+- Clarisse, Public Relations Officer, a Junior at Berea College, majoring in Computer Science
+
