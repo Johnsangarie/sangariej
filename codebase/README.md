@@ -85,3 +85,7 @@
 - John, Director of Technology, and a Senior at Berea College majoring in Computer Science.
 - Clarisse, Public Relations Officer, a Junior at Berea College, majoring in Computer Science
 
+will be updated later
+![image](https://user-images.githubusercontent.com/57777698/197008321-7fd27f50-8d22-4434-aad7-45118e0ee55d.png)
+
+
